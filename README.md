@@ -14,7 +14,7 @@ Nicholas Pinero: Developer, completed about 15% total: Table.py and Page.py
 
 MileStone 2 Contributions:
 
-Sage Dillemuth:
+Sage Dillemuth: Developer and team leader: completed about 40% total(i think more like 20): merge and bug testing 
 
 Iris Yuan: Developer, completed about 15% total: Bufferpool.py, Page.py
 
